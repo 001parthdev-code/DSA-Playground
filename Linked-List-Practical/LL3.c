@@ -1,3 +1,13 @@
+/*Goal:
+
+Ask the user how many nodes they want.
+
+Take values as input.
+
+Build the linked list dynamically.
+
+Print the linked list.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
